@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TimeeaB or Timella
+- 👀 I’m interested in Design and Computing
+- 🌱 I’m currently learning iOS App Development
+- 💞️ I’m looking to collaborate on Creative Computing Projects
+- 📫 How to reach me : email timeeabolobita@gmail.com
